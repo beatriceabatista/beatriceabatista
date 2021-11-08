@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @beatriceabatista
-- 👀 I’m interested in gaming
+- 👀 I’m interested in gaming, pretty web pages and linguistics
 - 🌱 I’m currently learning javascript
 
 <!---
